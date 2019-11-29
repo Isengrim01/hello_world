@@ -1,2 +1,2 @@
-# hello_world [![Build Status](https://travis-ci.org/Isengrim01/hello_world.svg?branch=master)](https://travis-ci.org/Isengrim01/hello_world)
+# hello_world [![Build Status](https://travis-ci.org/Isengrim01/hello_world.svg?branch=master)](https://travis-ci.org/Isengrim01/hello_world)[![Build status](https://ci.appveyor.com/api/projects/status/lafhx6x13u6gvjra?svg=true)](https://ci.appveyor.com/project/Isengrim01/hello-world)
 Hello world from CoreHard
