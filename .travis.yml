@@ -1,0 +1,7 @@
+languarge: cpp
+
+script:
+	- mkdir build && cd build
+	- cmake ..
+	- cmake --build .
+	- ./hello
